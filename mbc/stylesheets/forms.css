@@ -1,0 +1,86 @@
+#commentForm {
+	position: relative;
+	height: auto;
+	padding-bottom: 30px;
+}
+#commentForm label {
+	display: block;
+	position: relative;
+	padding-bottom: 5px;
+	width: 360px;
+}
+#commentForm label.message {
+	min-height: 276px;
+}
+#commentForm input {
+	display: block;
+	margin: 0;
+	outline: none;
+	box-shadow: none !important;
+	padding: 0 15px;
+	margin-bottom: 10px;
+	width: 330px;
+	height: 36px;
+	font: 12px/18px Arial, sans-serif;
+	color: #646464;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+}
+#commentForm textarea {
+	resize: none;
+	overflow: auto;
+	display: block;
+	margin-bottom: 10px;
+	outline: none;
+	box-shadow: none !important;
+	padding: 10px 15px;
+	width: 520px;
+	height: 228px;
+	font: 12px/18px Arial, sans-serif;
+	color: #646464;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+}
+#commentForm label > span {
+	color: #000;
+	position:relative;
+	left: 10px;
+}
+#commentForm .success {
+	color:#000;
+	/*display:none;*/
+	margin-bottom:10px;
+}
+#commentForm .empty, #commentForm .error {
+	font: 12px/18px Arial, sans-serif;
+	/*display:none;*/
+	color:#149fbd;
+}
+#commentForm #submit {
+	width: 100px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	#commentForm input {
+		width: 280px;
+	}
+	#commentForm textarea {
+		width: 393px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	#commentForm input {
+		width: 200px;
+	}
+	#commentForm textarea {
+		width: 200px;
+	}
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#commentForm input {
+		width: 260px;
+	}
+	#commentForm textarea {
+		width: 320px;
+	}
+}

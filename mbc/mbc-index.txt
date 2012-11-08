@@ -1,0 +1,92 @@
+<!-- Heading 1, "Mitchell's" is a link, use "index.html" for href attribute value -->
+Mitchell's
+
+<!-- Unordered list, each a link, target "index.html for Home, "about.html" for About, "#" for the rest -->
+Home
+About
+Services
+Careers
+Contact
+
+<!-- Image, enter "Customer support team" for alt attribute value -->
+slide1.jpg
+
+<!-- Paragraph -->
+Reliable
+
+<!-- Paragraph -->
+Lorem ipsum dolor sit, consectetuer adipiscing sed diam nonummy.
+
+<!-- Paragraph -->
+Mutual
+
+<!-- Paragraph -->
+Diam nonummy euismod tincidunt laoreet dolore magna.
+
+<!-- Paragraph -->
+Creative
+
+<!-- Paragraph -->
+Ut wisi enim minim veniam, nostrud exerci tation ullamcorper.
+
+<!-- Image, enter "We work for you!" for alt attribute value -->
+1page_img4.jpg
+
+<!-- Paragraph -->
+We work for you!
+
+<!-- Paragraph -->
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.
+
+<!-- Unordered list, each a link, use "#" for href attribute value -->
+Business Technology
+Corporate Finance
+
+<!-- Unordered list, each a link, use "#" for href attribute value -->
+Marketing & Sales
+Sustainability & Resource
+
+<!-- Heading 2 -->
+Industry Practices
+
+<!-- Unordered list, each a link, use "#" for href attribute value -->
+Electric Power & Natural Gas
+Healthcare Systems & Services
+Pharmaceuticals & Medical Products
+Telecommunications
+
+<!-- Heading 2 -->
+Why Mitchell's
+
+<!-- Paragraph -->
+Lorem ipsum dolor sit, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.
+
+<!-- Paragraph -->
+Jonh Tompson
+
+<!-- Paragraph -->
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+
+<!-- Paragraph -->
+Frank Johnson
+
+<!-- Heading 2 -->
+News
+
+<!-- Paragraph -->
+03.27.2012 - Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+<!-- Paragraph -->
+03.27.2012 - Sed diam nonummy nibh euismod tincidunt ut laoreet dolore.
+
+<!-- Paragraph -->
+03.27.2012 - Ut wisi enim minim veniam, quis nostrud exerci tation.
+
+<!-- Unordered list, each a link, use "#" for href attribute value -->
+RSS
+Twitter
+Facebook
+Google Plus
+
+<!-- Paragraph, "Privacy Policy" is a link, use "#" for href attribute value -->
+Mitchell's &copy; 2012 All Rights Reserved | Privacy Policy

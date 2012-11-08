@@ -1,0 +1,36 @@
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="images/slide-1.jpg" alt="">
+      <div class="flex-caption">
+        <div class="">Customer</div>
+        <div class="slide-text-bold ident-top-1">Support</div>
+	<div class="slide-text-bold ident-top-1">Team <a class="slide-button" href="#"><img src="images/flex-button.png" alt="" /></a></div>
+      </div>
+    </li>
+    <li>
+      <img src="images/slide-2.jpg" alt="">
+      <div class="flex-caption">
+        <div class="slide-text-bold">timely and</div>
+        <div class="slide-text-bold ident-top-1">correct</div>
+	<div class="ident-top-1">decisions <a class="slide-button" href="#"><img src="images/flex-button.png" alt="" /></a></div>
+      </div>
+    </li>
+    <li>
+      <img src="images/slide-3.jpg" alt="">
+      <div class="flex-caption">
+        <div class="slide-text-bold">Reach</div>
+	<div class="slide-text-bold ident-top-1">stability</div>
+	<div class="ident-top-1">with us! <a class="slide-button" href="#"><img src="images/flex-button.png" alt="" /></a></div>
+      </div>
+    </li>
+    <li>
+      <img src="images/slide-4.jpg" alt="">
+      <div class="flex-caption">
+        <div class="slide-text-bold">Advance</div>
+        <div class="ident-top-1">your</div>
+        <div class="ident-top-1">business! <a class="slide-button" href="#"><img src="images/flex-button.png" alt="" /></a></div>
+      </div>
+    </li>
+  </ul>
+</div>
